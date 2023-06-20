@@ -1,0 +1,5 @@
+site_name: 3D scene builder
+repo_url: https://github.com/game-dev-kit/3D-scene-builder
+
+nav:
+  - 3D scene builder: 'index.md'
