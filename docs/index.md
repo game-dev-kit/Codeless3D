@@ -1,8 +1,8 @@
-# 3D scene builder
+# Codeless3D
 
 ## Description
 
-This repository contains the source code for a tool kit regarding the creation of 3D scenes.
+This repository contains the source code for a tool kit regarding the creation of 3D scenes, without writing code.
 
 ## Repository
 
