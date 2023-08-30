@@ -4,6 +4,12 @@
 
 This repository contains the source code for a tool kit regarding the creation of 3D scenes, without writing code.
 
+## Video
+
+
+https://github.com/game-dev-kit/Codeless3D/assets/12414234/c43da0e5-aa30-463c-88f3-e12b2a7384cf
+
+
 ## Repository
 
 The URL of this component can be found [here](https://github.com/game-dev-kit/3D-scene-builder)
